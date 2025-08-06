@@ -205,6 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 . e n v 
 
 # local env  
@@ -216,4 +217,10 @@ __pycache__/
 
 # SQLite database  
 data.sqlite
- 
+
+
+# Ignore environment file
+.env
+
+=======
+>>>>>>> 11ef8ab2895ba62a8eef31030d0b341010ca619b
